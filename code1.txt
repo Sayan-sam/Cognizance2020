@@ -6,4 +6,9 @@ void main()
 	printf{"Let's push this to the github remote account"};
 	printf{"Let's pull this to the local server"};
 	printf{"Edit made in Sam branch"};
+	printf{"Commit1"};
+	printf{"Commit2"};
+	printf{"Commit3"};
+	printf{"Commit4"};
+	printf{"Commit5"};
 }
