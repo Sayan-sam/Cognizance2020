@@ -20,8 +20,7 @@ It will be easy for students to check the factorization of big numbers and even 
 
 > Prime numbers are really one of the most simple facintating thing one can thing of. 
 
-Hope you will like the program.
-
-** Regards
-
-Sayan Banerjee **
+Hope you'll like the program.
+* Sayan Banerjee
+* CSE-B
+* Roll no. 38169
