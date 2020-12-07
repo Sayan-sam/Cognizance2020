@@ -19,3 +19,9 @@ We will keep all of our operations to `integers`.
 It will be easy for students to check the factorization of big numbers and even find if a number is prime or not.
 
 > Prime numbers are really one of the most simple facintating thing one can thing of. 
+
+Hope you will like the program.
+
+** Regards
+
+Sayan Banerjee **
