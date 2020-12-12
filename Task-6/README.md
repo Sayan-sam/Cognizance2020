@@ -15,7 +15,7 @@ So, 153 is an Armstrong number.
 
 Another example is as follows:
 
-![Armstrong Number](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBTB83ExF8oWLJ2lhpRxZ4sQ3uAXCjPNQRA&usqp=CAU "Armstrong Numbers")\
+![Armstrong Number](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGBTB83ExF8oWLJ2lhpRxZ4sQ3uAXCjPNQRA&usqp=CAU "Armstrong Numbers")
 
 In this task we are going to provide a flowgorithm and a pseudocode for the algorithm.
 
